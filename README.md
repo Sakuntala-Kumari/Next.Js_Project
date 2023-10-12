@@ -7,11 +7,9 @@
 - Content Hosting: cloudinary
 - Deploy: Github, Vercel, MongoDB Atlas
 
-![next amazona](/public/app.jpg)
 
-## Resources
-- Demo Website :  https://next-tailwind-amazona.vercel.app
-- Source Code   :  https://github.com/basir/next-tailwind-amazona
+
+
 
 ## Run Locally
 
